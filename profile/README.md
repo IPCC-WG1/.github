@@ -4,7 +4,7 @@ The following table displays the figures that have associated code in this repos
 
 | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Technical Summary |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
-| |  | [Figure 3.2](https://github.com/IPCC-WG1/Chapter-3_Fig02b) |  | |  |[Figure 7.2](https://github.com/IPCC-WG1/Chapter-7_Fig2)|  |[Figure 9.2](https://github.com/IPCC-WG1/Chapter-9) |  | [Figure 11.2](https://github.com/IPCC-WG1/Chapter-11)|||
+| |  | [Figure 3.2](https://github.com/IPCC-WG1/Chapter-3_Fig02b) |  | |  |[Figure 7.2](https://github.com/IPCC-WG1/Chapter-7)|  |[Figure 9.2](https://github.com/IPCC-WG1/Chapter-9) |  | [Figure 11.2](https://github.com/IPCC-WG1/Chapter-11)|||
 | | [Figure 2.3](https://github.com/IPCC-WG1/Chapter-2_Fig03) | [Figure 3.3](https://github.com/IPCC-WG1/Chapter-3_Fig03) |  | | | [Figure 7.3](https://github.com/IPCC-WG1/Chapter-7) |  | [Figure 9.3](https://github.com/IPCC-WG1/Chapter-9) | | [Figure 11.3](https://github.com/IPCC-WG1/Chapter-11) | | |
 | | | [Figure 3.4](https://github.com/IPCC-WG1/Chapter-3_Fig04) |  |[Figure 5.4](https://github.com/IPCC-WG1/Chapter-5_Fig4)  |  | [Figure 7.4](https://github.com/IPCC-WG1/Chapter-7) | | [Figure 9.4](https://github.com/IPCC-WG1/Chapter-9) | | | [Figure 12.4](https://github.com/IPCC-WG1/Chapter-12) ||
 | |  | [Figure 3.5](https://github.com/IPCC-WG1/Chapter-3_Fig05) |  |  |  | [Figure 7.5](https://github.com/IPCC-WG1/Chapter-7) | | [Figure 9.5](https://github.com/IPCC-WG1/Chapter-9) |  | | [Figure 12.5](https://github.com/IPCC-WG1/Chapter-12) ||
