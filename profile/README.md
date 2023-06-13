@@ -1,9 +1,11 @@
-# IPCC AR6 Working Group I - Figures 
+The following table displays the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
+
+# IPCC AR6 Working Group I - Figures ** 
 
 | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Technical Summary |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
-| | [Figure 3.2](https://github.com/IPCC-WG1/Chapter-3_Fig02) |  |  | | [Figure 7.2](https://github.com/IPCC-WG1/Chapter-7_Fig2) || [Figure 9.2](https://github.com/IPCC-WG1/Chapter-9) | | [Figure 11.2](https://github.com/IPCC-WG1/Chapter-11) | 
-| | [Figure 2.3](https://github.com/IPCC-WG1/Chapter-2_Fig03) | [Figure 3.3](https://github.com/IPCC-WG1/Chapter-3_Fig03) | [CCBOX 4.1 Figure 1 ](https://github.com/IPCC-WG1/Chapter-4_CCBOX4.1_Fig1) | | | [Figure 7.3](https://github.com/IPCC-WG1/Chapter-7) |  | [Figure 9.3](https://github.com/IPCC-WG1/Chapter-9) | | [Figure 11.3](https://github.com/IPCC-WG1/Chapter-11) | | |
+| |  | [Figure 3.2](https://github.com/IPCC-WG1/Chapter-3_Fig02b) |  | |  |[Figure 7.2](https://github.com/IPCC-WG1/Chapter-7_Fig2)|  |[Figure 9.2](https://github.com/IPCC-WG1/Chapter-9) |  | [Figure 11.2](https://github.com/IPCC-WG1/Chapter-11)|||
+| | [Figure 2.3](https://github.com/IPCC-WG1/Chapter-2_Fig03) | [Figure 3.3](https://github.com/IPCC-WG1/Chapter-3_Fig03) |  | | | [Figure 7.3](https://github.com/IPCC-WG1/Chapter-7) |  | [Figure 9.3](https://github.com/IPCC-WG1/Chapter-9) | | [Figure 11.3](https://github.com/IPCC-WG1/Chapter-11) | | |
 | | | [Figure 3.4](https://github.com/IPCC-WG1/Chapter-3_Fig04) |  |[Figure 5.4](https://github.com/IPCC-WG1/Chapter-5_Fig4)  |  | [Figure 7.4](https://github.com/IPCC-WG1/Chapter-7) | | [Figure 9.4](https://github.com/IPCC-WG1/Chapter-9) | | | [Figure 12.4](https://github.com/IPCC-WG1/Chapter-12) ||
 | |  | [Figure 3.5](https://github.com/IPCC-WG1/Chapter-3_Fig05) |  |  |  | [Figure 7.5](https://github.com/IPCC-WG1/Chapter-7) | | [Figure 9.5](https://github.com/IPCC-WG1/Chapter-9) |  | | [Figure 12.5](https://github.com/IPCC-WG1/Chapter-12) ||
 | |  | [Figure 3.6](https://github.com/IPCC-WG1/Chapter-3_Fig06) |  |  | | [Figure 7.6](https://github.com/IPCC-WG1/Chapter-7) |  | [Figure 9.6](https://github.com/IPCC-WG1/Chapter-9) | [Figure 10.6](https://github.com/IPCC-WG1/Chapter-10_Fig06) | | [Figure 12.6](https://github.com/IPCC-WG1/Chapter-12) ||
@@ -45,7 +47,7 @@
 ||   | [Figure 3.42](https://github.com/IPCC-WG1/Chapter-3_Fig42) |  | | | | |  |  | |  ||
 ||   | [Figure 3.43](https://github.com/IPCC-WG1/Chapter-3_Fig43) | |  |  | | | |  |  |  ||
 
-# IPCC AR6 Working Group I - Box, CCBOX, FAQs, SM 
+# IPCC AR6 Working Group I - Box, CCBOX, FAQs, SM **
 
 | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Technical Summary |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
@@ -58,8 +60,9 @@
 ||  | |  | | |  |  |  | | [Figure SPM.5](https://github.com/IPCC-WG1/Chapter-11) | | |
 ||  |  |  | | |  |  |  | | [Figure SPM.6](https://github.com/IPCC-WG1/Chapter-11) | | |
 
-# IPCC AR6 Working Group I - Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA)
+# IPCC AR6 Working Group I - Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA) **
 | Interactive Atlas| Paleoclimate Data for IA | Colormaps| 
 | --------- | --------- | --------- |
 |[IA](https://github.com/IPCC-WG1/Atlas)|[PALEO_IA](https://github.com/IPCC-WG1/PMIP_for_AR6_Interactive_Atlas)|[CM](https://github.com/IPCC-WG1/colormaps)|
 
+** Please refer to the respective code links for detailed information on how to use and cite the code correctly.
