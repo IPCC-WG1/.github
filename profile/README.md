@@ -1,4 +1,4 @@
-The following table displays the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
+The following tables display the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
 
 # IPCC AR6 Working Group I - Figures 
 
