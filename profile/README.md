@@ -47,7 +47,7 @@ The following tables display the figures that have associated code in this repos
 ||   | [Figure 3.42](https://github.com/IPCC-WG1/Chapter-3_Fig42) |  | | | | |  |  | |  ||||
 ||   | [Figure 3.43](https://github.com/IPCC-WG1/Chapter-3_Fig43) | |  |  | | | |  |  |  ||||
 
-# IPCC AR6 Working Group I - Box, CCBOX, FAQs, SM *
+# IPCC AR6 Working Group I - Box, CCBOX, FAQs, SM 
 
 | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 | Atlas | Technical Summary |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- |
