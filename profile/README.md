@@ -1,6 +1,6 @@
 The following table displays the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
 
-# IPCC AR6 Working Group I - Figures * 
+# IPCC AR6 Working Group I - Figures 
 
 | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Atlas |Technical Summary |SPM |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -59,9 +59,9 @@ The following table displays the figures that have associated code in this repos
 ||  |  |  | | |  |  |  | |  | [12.SM.6](https://github.com/IPCC-WG1/Chapter-12) | ||
 
 
-# IPCC AR6 Working Group I - Interactive Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA) **
+# IPCC AR6 Working Group I - Interactive Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA) 
 | Interactive Atlas| Paleoclimate Data for IA | Colormaps| 
 | --------- | --------- | --------- |
 |[IA](https://github.com/IPCC-WG1/Atlas)|[PALEO_IA](https://github.com/IPCC-WG1/PMIP_for_AR6_Interactive_Atlas)|[CM](https://github.com/IPCC-WG1/colormaps)|
 
-* Please refer to the respective code links for detailed information on how to use and cite the code correctly.
+Note: Please refer to the respective code links for detailed information on how to use and cite the code properly.
