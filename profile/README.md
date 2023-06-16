@@ -2,7 +2,7 @@ The following tables display the figures that have associated code in this repos
 
 # IPCC AR6 Working Group I - Figures 
 
-| Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Atlas |Technical Summary |SPM |
+| Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 |Chapter Atlas |Technical Summary |SPM |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | |  | [Figure 3.2](https://github.com/IPCC-WG1/Chapter-3_Fig02b) |  | |  |[Figure 7.2](https://github.com/IPCC-WG1/Chapter-7)|  |[Figure 9.2](https://github.com/IPCC-WG1/Chapter-9) |  | [Figure 11.2](https://github.com/IPCC-WG1/Chapter-11)||||
 | | [Figure 2.3](https://github.com/IPCC-WG1/Chapter-2_Fig03) | [Figure 3.3](https://github.com/IPCC-WG1/Chapter-3_Fig03) |  | | | [Figure 7.3](https://github.com/IPCC-WG1/Chapter-7) |  | [Figure 9.3](https://github.com/IPCC-WG1/Chapter-9) | | [Figure 11.3](https://github.com/IPCC-WG1/Chapter-11) | | |||
@@ -49,7 +49,7 @@ The following tables display the figures that have associated code in this repos
 
 # IPCC AR6 Working Group I - Box, CCBOX, FAQs, SM 
 
-| Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 | Atlas | Technical Summary |
+| Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 | Chapter Atlas | Technical Summary |
 | ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 ||   | [CCBOX 3.1, Figure 1](https://github.com/IPCC-WG1/Chapter-3_CCBOX3.1_Fig1) | [CCBOX 4.1, Figure 1 ](https://github.com/IPCC-WG1/Chapter-4_CCBOX4.1_Fig1) | | |[7.SM.1](https://github.com/IPCC-WG1/Chapter-7) || [CCBOX 9.1, Figure 1](https://github.com/IPCC-WG1/Chapter-9) [FAQ 9.1](https://github.com/IPCC-WG1/Chapter-9)| | [BOX 11.1, Figure 1](https://github.com/IPCC-WG1/Chapter-11) [FAQ 11.1, Figure 1](https://github.com/IPCC-WG1/Chapter-11) [11.SM.1](https://github.com/IPCC-WG1/Chapter-11)| [12.SM.1](https://github.com/IPCC-WG1/Chapter-12)|| [TS BOX 5, Figure 1](https://github.com/IPCC-WG1/TS_Box5_Figure1) |
 ||   | [CCBOX 3.2, Figure 1](https://github.com/IPCC-WG1/Chapter-3_CCBOX3.2_Fig1) [FAQ 3.2 Figure 1](https://github.com/IPCC-WG1/Chapter-3_FAQ2_Fig01)| | | |[BOX 7.2, Figure 1](https://github.com/IPCC-WG1/Chapter-7)  |  [BOX 8.2, Figure 1](https://github.com/IPCC-WG1/Chapter-8)  | [BOX 9.2, Figure 1](https://github.com/IPCC-WG1/Chapter-9) [FAQ 9.2](https://github.com/IPCC-WG1/Chapter-9) | | | [12.SM.2](https://github.com/IPCC-WG1/Chapter-12) | ||
