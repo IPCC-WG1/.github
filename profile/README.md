@@ -1,4 +1,5 @@
-The following tables display the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
+README.md 
+# The following tables display the figures that have associated code in this repository. Instructions on how to use and properly cite the code can be found through the link associated with each folder.
 
 # IPCC AR6 Working Group I - Figures 
 
@@ -65,3 +66,4 @@ The following tables display the figures that have associated code in this repos
 |[IA](https://github.com/IPCC-WG1/Atlas)|[PALEO_IA](https://github.com/IPCC-WG1/PMIP_for_AR6_Interactive_Atlas)|[CM](https://github.com/IPCC-WG1/colormaps)|
 
 Note: Please refer to the respective code links for detailed information on how to use and cite the code properly.
+main.md
