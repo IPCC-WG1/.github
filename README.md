@@ -29,4 +29,5 @@ The following tables display the figures that have associated code in this repos
 ||  | [Figure 3.22](https://github.com/IPCC-WG1/Chapter-3_Fig22) |  |  | [Figure 6.22](https://github.com/IPCC-WG1/Chapter-6_Fig12_22_24) | [Figure 7.22](https://github.com/IPCC-WG1/Chapter-7) | | [Figure 9.22](https://github.com/IPCC-WG1/Chapter-9) | | | |[Figure Atlas.22](https://github.com/IPCC-WG1/Atlas/blob/main/notebooks/regional-scatter-plots_R.ipynb)|||
 ||  [Figure 2.23](https://github.com/IPCC-WG1/Chapter-2_Fig23) | [Figure 3.23](https://github.com/IPCC-WG1/Chapter-3_Fig23) | |  | [Figure 6.23](https://github.com/IPCC-WG1/Chapter-6_Fig23) | | | [Figure 9.23](https://github.com/IPCC-WG1/Chapter-9) | | |  ||||
 ||  | [Figure 3.24](https://github.com/IPCC-WG1/Chapter-3_Fig24) |  | | [Figure 6.24](https://github.com/IPCC-WG1/Chapter-6_Fig12_22_24) |  | | [Figure 9.24](https://github.com/IPCC-WG1/Chapter-9) |  | | |[Figure Atlas.24](https://github.com/IPCC-WG1/Atlas/blob/main/notebooks/regional-scatter-plots_R.ipynb) |[TS.24](https://github.com/IPCC-WG1/TS_Fig24)||
+
 main.md
