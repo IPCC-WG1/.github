@@ -59,9 +59,9 @@ The following tables display the figures that have associated code in this repos
 ||  |  |  | | |  |  |  | |  | [12.SM.6](https://github.com/IPCC-WG1/Chapter-12) | ||
 
 
-# IPCC AR6 Working Group I - Interactive Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA) 
-| Interactive Atlas| Paleoclimate Data for IA | Colormaps| 
+# IPCC AR6 Working Group I - Interactive Atlas (IA), Colormaps (CM), Paleoclimate Data for IA (PALEO_IA), CMIP6 Input Data - DKRZ (CMIP6) 
+| Interactive Atlas| Paleoclimate Data for IA | Colormaps| CMIP6 Input Data
 | --------- | --------- | --------- |
-|[IA](https://github.com/IPCC-WG1/Atlas)|[PALEO_IA](https://github.com/IPCC-WG1/PMIP_for_AR6_Interactive_Atlas)|[CM](https://github.com/IPCC-WG1/colormaps)|
+|[IA](https://github.com/IPCC-WG1/Atlas)|[PALEO_IA](https://github.com/IPCC-WG1/PMIP_for_AR6_Interactive_Atlas)|[CM](https://github.com/IPCC-WG1/colormaps)|[CMIP6](https://github.com/IPCC-WG1/DDC-AR6-CMIP6-Data-Archival)
 
 Note: Please refer to the respective code links for detailed information on how to use and cite the code properly.
